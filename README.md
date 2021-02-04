@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-CSS
+# html-css-33-qna
